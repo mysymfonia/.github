@@ -1,13 +1,13 @@
 ## Hi there 👋
-## Podsumowanie Ścieżki Szkolenia z Backend Developer
-🙋‍ Celem tego programu szkolenia jest zdobycie umiejętności programowania w ASP.NET Core, jednym z najpopularniejszych i najbardziej wszechstronnych frameworków do tworzenia nowoczesnych, wydajnych aplikacji internetowych.
+## Backend Developer Training 
+🙋‍ The aim of this training program is to acquire programming skills in ASP.NET Core, one of the most popular and versatile frameworks for creating modern, efficient web applications.
 
-Oto, czego można spodziewać się po tym szkoleniu:
+Here's what you can expect from this training:
 
-1. Zapoznanie z ASP.NET Core: Na początku szkolenia uczestnicy zostaną zapoznani z podstawami ASP.NET Core, frameworkiem open-source używanym do budowania aplikacji internetowych. Dowiedzą się, jak tworzyć i uruchamiać proste aplikacje, jak zarządzać routingiem i jak obsługiwać zapytania.
-2. Użycie Entity Framework: Entity Framework to ORM (Object Relational Mapping), który umożliwia pracę z bazami danych w sposób obiektowy. Uczestnicy nauczą się, jak definiować modele, jak korzystać z DBContext, jak wykonywać zapytania i jak zarządzać relacjami między obiektami.
-3. Wykorzystanie wzorca mediatora: Wzorzec mediatora pomaga w zarządzaniu skomplikowanymi komunikacjami między obiektami. Uczestnicy dowiedzą się, jak zaimplementować ten wzorzec w ASP.NET Core, co pozwoli im tworzyć aplikacje, które są łatwiejsze do utrzymania i rozbudowy.
-4. Zaznajomienie się z REST API: REST API to podstawowy element współczesnych aplikacji internetowych. Uczestnicy nauczą się, jak tworzyć i konsumować REST API, jak obsługiwać różne typy zapytań (GET, POST, DELETE, etc.), i jak zarządzać danymi w formacie JSON.
-5. Zaznajomienie się z GraphQL API: GraphQL to nowoczesne API, które umożliwia klientom precyzyjne zdefiniowanie danych, które chcą otrzymać. Nauczą się jak tworzyć GraphQL API, jak definiować schematy, jak obsługiwać zapytania, mutacje i subskrypcje.
+1. Introduction to ASP.NET Core: At the start of the training, participants will be introduced to the basics of ASP.NET Core, an open-source framework used for building web applications. They will learn how to create and run simple applications, manage routing, and handle requests.
+2. Using Entity Framework: Entity Framework is an ORM (Object Relational Mapping) that allows you to work with databases in an object-oriented way. Participants will learn how to define models, use DBContext, perform queries, and manage relationships between objects.
+3. Mediator Pattern: The mediator pattern helps manage complex communications between objects. Participants will learn how to implement this pattern in ASP.NET Core, allowing them to create applications that are easier to maintain and expand.
+4. Exploration of REST API: REST API is a fundamental element of modern web applications. Participants will delve into creating and consuming REST APIs, handling different types of requests (GET, POST, DELETE, etc.), and managing data in JSON format.
+5. Understanding GraphQL API: GraphQL is a modern API that allows clients to precisely define the data they want to receive. Participants will engage with creating a GraphQL API, defining schemas, handling queries, mutations, and subscriptions.
 
-🧙 W trakcie tego szkolenia uczestnicy będą pracować nad konkretnymi zadaniami, które pomogą im zrozumieć i nauczyć się wszystkich powyższych koncepcji. Do końca szkolenia będą w stanie tworzyć pełnowymiarowe, skomplikowane aplikacje internetowe z użyciem ASP.NET Core.
+🧙 Throughout this training, participants will work on specific tasks that will help them understand and learn all of the above concepts. By the end of the training, they will be able to create complex web applications using ASP.NET Core.
